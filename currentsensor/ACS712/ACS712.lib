@@ -1,3 +1,4 @@
+* source: https://groups.io/g/LTspice/message/47003
 .subckt ACS712 I+ I- Filter Out V+ V-
 .param gain=185m; 185m -05B, 100m -20A, 66m -30A
 V1 I+ I- 0
