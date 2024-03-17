@@ -7,7 +7,7 @@ T1 1 V- 2 V- Td=1u Zo=1
 R1 2 V- 1
 R2 Filter 2 1k7
 G1 V- 3 Filter V- 1
-C1 3 V- 1µ3 Rpar=1
+C1 3 V- 1u3 Rpar=1
 R3 Out 3 50
 G2 V- 3 V+ V- 0.5
 R4 V+ V- 2k
