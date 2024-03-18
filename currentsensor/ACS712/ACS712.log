@@ -1,5 +1,0 @@
-Stray ".ends" card: .ends acs712
-LTspice 24.0.9 for Windows
-Circuit: .subckt ACS712 I+ I- Filter Out V+ V-
-Start Time: Fri Mar 15 21:32:37 2024
-Fatal Error: No analysis request found.
